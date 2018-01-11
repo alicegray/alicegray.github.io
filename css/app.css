@@ -6,3 +6,15 @@
     height: auto;
     width: 100%;
 }
+
+.portfolio-box {
+    overflow: hidden;
+}
+
+.portfolio-box img {
+    transition: all .2s ease-out;
+}
+
+.portfolio-box:hover img {
+    transform: scale(1.5);
+}
