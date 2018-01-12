@@ -18,3 +18,16 @@
 .portfolio-box:hover img {
     transform: scale(1.5);
 }
+
+section#contact, footer {
+    background:#222222;
+    color:#eeeeee;
+}
+
+footer .footer-link {
+    display:block;
+    font-size:0.8em;
+    color:#eee;
+    opacity:0.8;
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+}
